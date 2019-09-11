@@ -1,0 +1,22 @@
+c:\users\anna\documents\visual studio 2015\Projects\Book Solution\Book Project\bin\Debug\Book Project.exe.config
+c:\users\anna\documents\visual studio 2015\Projects\Book Solution\Book Project\bin\Debug\Book Project.exe
+c:\users\anna\documents\visual studio 2015\Projects\Book Solution\Book Project\bin\Debug\Book Project.pdb
+c:\users\anna\documents\visual studio 2015\Projects\Book Solution\Book Project\bin\Debug\Book Project.xml
+c:\users\anna\documents\visual studio 2015\Projects\Book Solution\Book Project\obj\Debug\Book Project.vbprojResolveAssemblyReference.cache
+c:\users\anna\documents\visual studio 2015\Projects\Book Solution\Book Project\obj\Debug\Book_Project.MainForm.resources
+c:\users\anna\documents\visual studio 2015\Projects\Book Solution\Book Project\obj\Debug\Book_Project.Resources.resources
+c:\users\anna\documents\visual studio 2015\Projects\Book Solution\Book Project\obj\Debug\Book Project.vbproj.GenerateResource.Cache
+c:\users\anna\documents\visual studio 2015\Projects\Book Solution\Book Project\obj\Debug\Book Project.exe
+c:\users\anna\documents\visual studio 2015\Projects\Book Solution\Book Project\obj\Debug\Book Project.xml
+c:\users\anna\documents\visual studio 2015\Projects\Book Solution\Book Project\obj\Debug\Book Project.pdb
+C:\Users\Anna\Desktop\Book Solution-Modify\Book Project\bin\Debug\Book Project.exe.config
+C:\Users\Anna\Desktop\Book Solution-Modify\Book Project\obj\Debug\Book Project.exe
+C:\Users\Anna\Desktop\Book Solution-Modify\Book Project\obj\Debug\Book Project.xml
+C:\Users\Anna\Desktop\Book Solution-Modify\Book Project\obj\Debug\Book Project.pdb
+C:\Users\Anna\Desktop\Book Solution-Modify\Book Project\bin\Debug\Book Project.exe
+C:\Users\Anna\Desktop\Book Solution-Modify\Book Project\bin\Debug\Book Project.pdb
+C:\Users\Anna\Desktop\Book Solution-Modify\Book Project\bin\Debug\Book Project.xml
+C:\Users\Anna\Desktop\Book Solution-Modify\Book Project\obj\Debug\Book Project.vbprojResolveAssemblyReference.cache
+C:\Users\Anna\Desktop\Book Solution-Modify\Book Project\obj\Debug\Book_Project.MainForm.resources
+C:\Users\Anna\Desktop\Book Solution-Modify\Book Project\obj\Debug\Book_Project.Resources.resources
+C:\Users\Anna\Desktop\Book Solution-Modify\Book Project\obj\Debug\Book Project.vbproj.GenerateResource.Cache
